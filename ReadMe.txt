@@ -1,0 +1,1 @@
+﻿This is a school project that I had to develop for the course "Systems and Networks Programming". The goal of the project was to develop the transport layer (on UDP) for a file exchange between a server and a client. We were given three clients, that had each a different behaviour. The goal was to get the highest throughput possible. 
